@@ -1,5 +1,5 @@
 # v10-uppgift
-Gruppövning i agila metoder, användning av Git Flow och Github Projects
+Gruppövning i agila metoder, användning av Git och Github Projects
 
 Design-teamet var alldeles för taggade på att skissa upp det nya projektet.
 
